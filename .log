@@ -1,0 +1,22 @@
+2022-10-13 11:58:09,348 [11098] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-10-13 11:58:09,348 [11098] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-10-13 11:58:09,349 [11098] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-10-13 11:58:09,353 [11098] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-10-13 11:58:09,354 [11098] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-10-13 11:58:09,354 [11098] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-10-13 11:58:11,725 [11098] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: bzr
+2022-10-13 11:58:11,727 [11098] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: git
+2022-10-13 11:58:11,728 [11098] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: hg
+2022-10-13 11:58:11,729 [11098] DEBUG    pip._internal.vcs.versioncontrol:225: [JupyterRequire] Registered VCS backend: svn
+2022-10-13 11:58:11,760 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading Gnome
+2022-10-13 11:58:11,831 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading Google
+2022-10-13 11:58:11,833 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading Windows (alt)
+2022-10-13 11:58:11,835 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading file
+2022-10-13 11:58:11,836 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading keyczar
+2022-10-13 11:58:11,836 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading multi
+2022-10-13 11:58:11,836 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading pyfs
+2022-10-13 11:58:11,837 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading KWallet
+2022-10-13 11:58:11,851 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading SecretService
+2022-10-13 11:58:11,855 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading Windows
+2022-10-13 11:58:11,856 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading chainer
+2022-10-13 11:58:11,857 [11098] INFO     keyring.backend:193: [JupyterRequire] Loading macOS
